@@ -1,5 +1,8 @@
 # corona-dashboard
 
+### Hosted at
+https://keith-covid19-dashboard.netlify.app/
+
 ## Project setup
 ```
 npm install
